@@ -8,7 +8,7 @@ int main()
     std::getline(std::cin, name);
 
     // name.erase(0, 3);
-    // std::cout << name << '\n';
+    // std::cout << erased << '\n';
 
     // std::cout << name.find(' ') << '\n';
 
